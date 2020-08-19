@@ -1,4 +1,4 @@
-## Aula 2- Resolução de Problemas
+## Aula 2- Lógica: Variáveis, Operadores e Condicional
 
 ---
 ## Calculadora de Média.
