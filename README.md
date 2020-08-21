@@ -26,3 +26,5 @@ Calcular  a média e dizer  se a aluna foi:
 | Aprovado |  Média maior ou igual a  7 
 | Reprovado | Média tem que ser menor que 5   
 | Em recuperação | Média tem que ser maior ou igual a 5 e menor que 7
+
+
