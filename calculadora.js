@@ -8,7 +8,7 @@ const emojiMessage = emoji.emojify(message);
 log(emojiMessage);
 
 
-const valor1 = input.question('Digite o primeiro valor  ')
+const valor1 = input.question('Digite o primeiro valor  ') 
 const valor2 = input.question('Digite o segundo valor  ')
 const valor3 = input.question('Digite o terceiro valor  ')
 const valor4 = input.question('Digite o quarto valor  ')
