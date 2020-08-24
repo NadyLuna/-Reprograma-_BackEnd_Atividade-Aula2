@@ -1,0 +1,24 @@
+{
+  "name": "reprograma-backend-atividade-aula2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadyLuna/-Reprograma-_BackEnd_Atividade-Aula2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadyLuna/-Reprograma-_BackEnd_Atividade-Aula2/issues"
+  },
+  "homepage": "https://github.com/NadyLuna/-Reprograma-_BackEnd_Atividade-Aula2#readme",
+  "dependencies": {
+    "node-emoji": "^1.10.0",
+    "readline-sync": "^1.4.10"
+  }
+}
